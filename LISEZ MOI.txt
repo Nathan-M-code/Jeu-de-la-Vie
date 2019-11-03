@@ -1,0 +1,11 @@
+Pour lancer le jeu, double cliquer sur le .exe.
+
+----------------------------------------------------------
+
+Pour recompiler le jeu, il faut avoir codeblocks et SFML, le tuto du site sfml et très bon.
+Puis lancer le projet codeblock pour modifier le code à volonté. Le .exe se trouvera alors dans le fichier bin/Debug
+et il faudra le glisser dans le dossier parent avec les dll pour pouvoir le relancer.
+
+-----------------------------------------------------------
+
+Toutes les touches sont noter dans les options du jeu en appuyant sur O.
